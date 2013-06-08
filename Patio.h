@@ -1,6 +1,6 @@
 //
 //  Patio.h
-//  Showtime
+//  Patio
 //
 //  Created by Yaogang Lian on 5/10/13.
 //  Copyright (c) 2013 HappenApps, Inc. All rights reserved.

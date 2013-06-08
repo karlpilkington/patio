@@ -1,6 +1,6 @@
 //
 //  PTClient.m
-//  Showtime
+//  Patio
 //
 //  Created by Yaogang Lian on 5/17/13.
 //  Copyright (c) 2013 HappenApps, Inc. All rights reserved.
